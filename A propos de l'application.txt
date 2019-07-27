@@ -1,0 +1,32 @@
+L'application que voici est une œuvre réalisée dans 
+Le cadre du cours de Development Mobile et Android, 
+Comme projet représentant la côte annuelle du cours.
+
+En effet, il a été question de réaliser une application Android, 
+Qui serait apte à faire une géolocalisation de chaque membre du groupe
+à travers une base de données qui enregistrerait toutes les informations
+nécessaires à ladite géolocalisation; et la localisation se fera à travers le Google Map.
+
+La base de données stockera la latitude et la longitude, le nom complet du membre
+le login, sa ville ainsi que son mot de passe.
+
+Sur l'accueil de l'application se trouvent 3 instances de boutons, le bouton supprimer, 
+le bouton enregistrer et le bouton connecter.
+	*le bouton enregistrer se chargera d'amener le membre du groupe vers une autre
+ Interface qui lui permettra de pouvoir fournir toutes les informations requises
+pour son enregistrement sur la base de données, on a entre autre le nom et prénom,
+la ville, l'adresse mail, le login et le mot de passe
+	*le bouton se connecter se chargera lui d'amener le membre du groupe inscrit 
+sur l'interface qui lui permettra de pouvoir donner les informations recquises pour la
+connection, on a entre autre le login et le mot de passe
+	*le bouton supprimer affichera la carte et de là possibilité de pouvoir supprimer 
+n'importe quel membre du groupe
+
+Ainsi les membres du groupe sont :
+	*DJUMAH RISASI Celestin
+	*ASSINA NGOY Ruth
+	*BAMBULA GUMBI Rene
+	*MUTEBA MUKEBAYI David
+	*KUNZI MATONDO DieuMerci
+copyright (c) 2019, Google Inc.
+All rights reserved.
